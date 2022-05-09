@@ -5,11 +5,11 @@
 <!DOCTYPE html>
 <head></head>
 <body>
-    	<a href="https://gallant-tereshkova-acda8b.netlify.app">Netlify - link</a>
+    	<a href="https://resplendent-youtiao-abdac5.netlify.app">Netlify - link</a>
       <br>
       </body>
       </html>
 
 <br>
 
-     https://gallant-tereshkova-acda8b.netlify.app
+     https://resplendent-youtiao-abdac5.netlify.app
