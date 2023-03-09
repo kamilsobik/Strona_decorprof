@@ -43,4 +43,4 @@ The project you can run by live server in Visual Studio Code
 &nbsp;
 
 ## 🙋‍♂️ Feel free to contact me
-If you have any suggestion or question do note resist to contact with me
+If you have any suggestion or question do not resist to contact with me
