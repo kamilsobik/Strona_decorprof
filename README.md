@@ -1,6 +1,6 @@
 # Decorprof responsive web
 
-See the live version of [Decorprof]([https://devmentor.pl](https://decorprof.netlify.app/)).
+See the live version of [Decorprof](https://decorprof.netlify.app/)
 
 A fully responsive website with the company's portfolio. It consists of the following sections:
 description of the company's activities
